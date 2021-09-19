@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SalGouda
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Neuroengineering, Neural Networks, Neuroevolution, Bioinformatics.
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Neuroinformatics, Bioinformatics.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Research Projects
 - 📫 How to reach me? salma.juda96@gmail.com
