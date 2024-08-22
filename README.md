@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salmagouda
+- 👋 Hi, I’m @salmajudah
 - 👀 I’m interested in Data, Statistics, Programming, Data Engineering, Analytics, and ML Engineering.
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Bussiness and Research Projects
